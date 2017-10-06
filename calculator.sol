@@ -12,3 +12,5 @@ contract Calculator {
        return addResult;
    }
 }
+
+/* Testing */
